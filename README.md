@@ -1,16 +1,14 @@
-## Hi there 👋
+## سلام
+if are not iranian , leave pls :)
+اگر ایرانی هستی بمون
+من یه دولوپرم
+البته 100% با چاتی پاتی و کلود و بقیه دوستاش
+راه ارتباطی؟ بدو بینم من اصن پروژه نمیگیرم
 
-<!--
-**erfan263/erfan263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+با چاتی پاتی چه زبان هایی کار میکنم؟
+Rubiblock : یه سایت برای ساخت ربات روبیکا که یه ایده جالب داره که لوش نمیدم
+chestandblockapi : یه api برای ماینکرافت که کی حوصله داره توضیح بده
+خودت برو توی https://www.curseforge.com/minecraft/mc-mods/chestandblockapi/preview ببین
+Viloryamc : یه سرور ماینکرافت Forge پر از ماد هایی که ماره من نیس :)
+نخند پفیوز
+صادقم 
