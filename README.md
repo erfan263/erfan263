@@ -66,7 +66,7 @@ However, when it comes to **Roblox Luau**, I can write and develop without AI as
 
 A Minecraft API/plugin project created by me.
 
-[![ChestAndBlockApi](https://img.shields.io/badge/ChestAndBlockApi-Plugin-62B47A?style=for-the-badge\&logo=minecraft\&logoColor=white)](YOUR_CHESTANDBLOCKAPI_LINK)
+[![ChestAndBlockApi](https://img.shields.io/badge/ChestAndBlockApi-Plugin-62B47A?style=for-the-badge\&logo=minecraft\&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/chestandblockapi/preview)
 
 ## About My Projects
 
