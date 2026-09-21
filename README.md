@@ -27,7 +27,9 @@ However, when it comes to **Roblox Luau**, I can write and develop without AI as
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge\&logo=minecraft\&logoColor=white)
-![AI%20Prompting](https://img.shields.io/badge/AI%20Prompting-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&logo=roblox\&logoColor=white)
+![CatWeb](https://img.shields.io/badge/CatWeb-FF6B35?style=for-the-badge\&logo=code\&logoColor=white)
+![AI Prompting](https://img.shields.io/badge/AI%20Prompting-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ### Programming
 
@@ -64,7 +66,7 @@ However, when it comes to **Roblox Luau**, I can write and develop without AI as
 
 A Minecraft API/plugin project created by me.
 
-[![ChestAndBlockApi](https://img.shields.io/badge/ChestAndBlockApi-Plugin-62B47A?style=for-the-badge\&logo=minecraft\&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/chestandblockapi/preview)
+[![ChestAndBlockApi](https://img.shields.io/badge/ChestAndBlockApi-Plugin-62B47A?style=for-the-badge\&logo=minecraft\&logoColor=white)](YOUR_CHESTANDBLOCKAPI_LINK)
 
 ## About My Projects
 
