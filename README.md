@@ -1,13 +1,9 @@
-## سلام
-اگر ایرانی هستی بمون.
-من یه دولوپرم.
-البته 100% با چاتی پاتی و کلود و بقیه دوستاش...
-راه ارتباطیم چیه؟ راه ارتباط میخوای؟ بدو بینم من اصن پروژه نمیگیرم.
+## 🛠️ Skills
 
-با چاتی پاتی چه زبان هایی کار میکنم؟
-Rubiblock : یه سایت برای ساخت ربات روبیکا که یه ایده جالب داره که لوش نمیدم
-chestandblockapi : یه api برای ماینکرافت که کی حوصله داره توضیح بده
-خودت برو توی https://www.curseforge.com/minecraft/mc-mods/chestandblockapi/preview ببین
-Viloryamc : یه سرور ماینکرافت Forge پر از ماد هایی که ماره من نیس :)
-نخند پفیوز
-صادقم 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![AI Prompting](https://img.shields.io/badge/AI%20Prompting-412991?style=for-the-badge&logo=openai&logoColor=white)
