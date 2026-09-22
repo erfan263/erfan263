@@ -86,5 +86,12 @@ I like building unusual things, experimenting with new ideas, and learning new t
 * AI Prompting
 * Larger and more complex projects
 
+## My Catweb Sites
+
+* exrun0.rbx
+* joojle.rbx
+* bibithub.rbx
+* buyaserverforme.rbx
+
 > I don't always write the code myself.
 > Sometimes I just know exactly what I want the AI to write.
