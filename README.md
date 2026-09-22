@@ -80,11 +80,10 @@ I like building unusual things, experimenting with new ideas, and learning new t
 
 * Advanced Luau
 * Roblox DataStore systems
-* Minecraft plugin development
-* Web development
 * UI/UX design
 * AI Prompting
 * Larger and more complex projects
+* Blender
 
 ## My Catweb Sites
 
